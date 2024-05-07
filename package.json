@@ -1,7 +1,7 @@
 {
   "name": "marsimages",
   "version": "1.0.0",
-  "description": "A web application for displaying images of Mars.",
+  "description": "description.",
   "main": "server.js",
   "dependencies": {
     "dotenv": "^16.4.5",
@@ -9,11 +9,10 @@
     "node-fetch": "^3.3.2"
   },
   "type": "module",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Your Name or Organization Name",
+  "author": "",
   "license": "ISC"
 }
